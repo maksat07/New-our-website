@@ -223,29 +223,10 @@
 
 /*yrysbu*/
 
-.contact .info .info-icon {
-  background-color: #ffc451;
-  float: left;
-  width: 44px;
-  height: 44px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  border-radius: 4px;
-}
 
-.contact .info h4 {
-  padding: 0 0 0 60px;
-  font-size: 22px;
-  font-weight: 600;
-  margin-bottom: 5px;
-}
-.contact .info p {
-  padding: 0 0 0 60px;
-  font-size: 14px;
-}
-.adress {
-  margin-top: 40px;
+.container img {
+  width: 100%;
+  margin: 40px;
 }
 
 /*about end*/
@@ -259,40 +240,18 @@
   margin-bottom: 3px;
 }
 
-.footer-top .footer-info h3 {
-  font-size: 28px;
-  margin: 0 0 20px 0;
-  padding: 2px 0 2px 0;
-  line-height: 1;
-  font-weight: 700;
-  text-transform: uppercase;
-}
 .footer-top .footer-info p {
   font-size: 14px;
-  line-height: 24px;
+  line-height: 25px;
   margin-bottom: 0;
 }
 
-.footer-top .social-links a {
-  width: 36px;
-  height: 36px;
-  background: #292929;
-  display: inline-block;
-  margin-right: 4px;
-  border-radius: 4px;
-  text-align: center;
-}
-.footer-top .social-links a:hover {
-  background: #ffc451;
-}
 .footer-top h4 {
-  font-size: 16px;
+  font-size: 20px;
   font-weight: 600;
   padding-bottom: 12px;
 }
-.footer-links {
-  margin-bottom: 30px;
-}
+
 .footer-links ul {
   list-style: none;
   padding: 0;
